@@ -4,9 +4,15 @@
   "rsc": true,
   "tsx": true,
   "tailwind": {
+<<<<<<< HEAD
     "config": "",
     "css": "app/globals.css",
     "baseColor": "neutral",
+=======
+    "config": "tailwind.config.ts",
+    "css": "app/globals.css",
+    "baseColor": "slate",
+>>>>>>> feat/sqlite
     "cssVariables": true,
     "prefix": ""
   },
